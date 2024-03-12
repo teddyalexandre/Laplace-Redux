@@ -1,1 +1,16 @@
 Laplace
+
+# WandB
+wandb
+runs
+logs
+temp
+models
+data
+
+# logs
+*.log
+
+#wip
+leNet.ipynb
+
