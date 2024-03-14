@@ -10,7 +10,7 @@ The paper introduces a method that simplifies the deployment of BNNs by leveragi
 
 Our investigation is documented in two comprehensive Jupyter notebooks, detailing the experiments conducted to validate the proposed approaches:
 
-1. **Training Performance Evaluation**: We assess the training performance of a Convolutional Neural Network (CNN) using the Laplace approximation method. This series of experiments focuses on comparing the efficiency and effectiveness of the proposed approach against traditional BNN training methodologies.
+1. **Training Performance Evaluation**: In `leNet.ipynb` We assess the training performance of a Convolutional Neural Network (CNN) using the online marginal likelihood training. This series of experiments focuses on comparing the efficiency and effectiveness of online Laplace and potential of its acceleration with Nvidia CUDA.
 
 2. **Uncertainty Quantification in Image Classification**: In this series, we delve into an image classification task to examine how uncertainty quantification can be improved using the Laplace approximation, especially in scenarios with additive noise. The experiments highlight the robustness and reliability of the proposed method in handling uncertainty.
 
