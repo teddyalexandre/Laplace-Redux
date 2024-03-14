@@ -1,6 +1,6 @@
 # Laplace Redux – Effortless Bayesian Deep Learning
 
-Welcome to the our repository for the paper "Laplace Redux – Effortless Bayesian Deep Learning" by Erik Daxberger, Agustinus Kristiadi, Alexander Immer, Runa Eschenhagen, Matthias Bauer, and Philipp Hennig. This paper presents a novel approach to streamline the construction of Bayesian Neural Networks (BNNs) through the use of Laplace approximation, making Bayesian deep learning more accessible and efficient.
+Welcome to the our repository for the paper "Laplace Redux – Effortless Bayesian Deep Learning" written by Erik Daxberger, Agustinus Kristiadi, Alexander Immer, Runa Eschenhagen, Matthias Bauer, and Philipp Hennig. This paper presents a novel approach to streamline the construction of Bayesian Neural Networks (BNNs) through the use of Laplace approximation, making Bayesian deep learning more accessible and efficient.
 
 ## Overview
 
@@ -22,3 +22,6 @@ To get started with replicating our experiments or exploring the Laplace Redux a
 2. Ensure you have Jupyter Notebook or JupyterLab installed to run the notebooks.
 3. Install the packages listed in the requirements.txt file.
 4. Navigate to the notebooks directory and launch Jupyter to open the provided notebooks.
+
+
+*Teddy ALEXANDRE, Samy HOCINE, Ivan SVATKO, MVA Master, 2023-2024*
